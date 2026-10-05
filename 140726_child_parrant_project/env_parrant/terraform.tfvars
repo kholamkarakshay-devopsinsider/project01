@@ -1,6 +1,6 @@
 resource_group = {
   rg01 = {
-    name     = "VIKAS-rg12"
+    name     = "VIKAS-rg111111111111111"
     location = "centralindia"
   }
   # rg02 = {
